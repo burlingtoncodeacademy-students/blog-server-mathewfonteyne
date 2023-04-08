@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "First Blog Post",
+    "author": "Paul Niemczyk",
+    "body": "These student devs keep getting younger and smarter"
+  },
+  {
+    "id": 2,
+    "title": "POST Method Test",
+    "author": "Mathew Fonteyne",
+    "body": "Testing POST Method"
+  },
+  {
+    "id": 3,
+    "title": "The Matrix",
+    "author": "Thomas Anderson",
+    "body": "How far down does the rabbit hole go?"
+  }
+]
