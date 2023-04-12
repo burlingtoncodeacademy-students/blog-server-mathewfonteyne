@@ -76,7 +76,7 @@ router.post("/create", (req, res) => {
   }
 });
 
-// UPDATE EXISTING ENTRY
+// UPDATE EXISTING ENTRY.
 router.put("/:id", (req, res) => {
   try {
     const id = Number(req.params.id);
